@@ -14,11 +14,11 @@ Translates the generated binary code into hexadecimal format.
 * Output Display:
 Presents the final hexadecimal code to the user, reflecting the processed instructions.
 
-# Collaboration:
-This project was developed in collaboration with a study partner.
-
 # Further Development:
 This is a foundational project and can be extended to incorporate additional functionalities such as:
 * Simulating more complex machine language instructions.
 * Supporting a wider range of register types.
 * Implementing error handling for invalid user input.
+
+# Collaboration:
+This project was developed in collaboration with a study partner.
