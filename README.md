@@ -1,8 +1,24 @@
-# Project_In_C
-A C-language project was performed in Linux and done with a study partner.
-The project simulates operations in machine language (assembly) and translates them from binary code to hexa-decimal in the final stage.
-The project at the beginning behind me works in several stages:
-First stage: I defined rules and stopping conditions so that the different types of registers can be entered in the terminal and worked with as in assembler.
-Second stage: I defined identification of the registers and what they do, and then, the system recognizes and accordingly converts the command lines into binary code.
-Third stage: I defined that the system will translate the binary code received from the system and then convert it to hexadecimal code.
-Fourth stage:  output to the screen/user what was received from the background work.
+# Project-In-C: Machine Language Simulator
+This project, written in C for Linux, simulates basic machine language operations and translates instructions from binary to hexadecimal code. It was developed collaboratively with a study partner.
+
+# Functionality:
+The project operates in four main stages:
+* Register Definition and Input:
+Establishes rules and stopping conditions for user interaction with various register types through the terminal.
+This emulates register manipulation commonly found in assembly language.
+* Register Identification and Instruction Conversion:
+Defines the functionalities of each register type.
+Implements logic to identify user-provided commands and convert them into their corresponding binary code representation.
+* Binary to Hexadecimal Conversion:
+Translates the generated binary code into hexadecimal format.
+* Output Display:
+Presents the final hexadecimal code to the user, reflecting the processed instructions.
+
+# Collaboration:
+This project was developed in collaboration with a study partner.
+
+# Further Development:
+This is a foundational project and can be extended to incorporate additional functionalities such as:
+* Simulating more complex machine language instructions.
+* Supporting a wider range of register types.
+* Implementing error handling for invalid user input.
